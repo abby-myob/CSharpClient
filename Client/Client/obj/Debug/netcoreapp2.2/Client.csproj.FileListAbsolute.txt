@@ -1,0 +1,11 @@
+/Users/abby.thompson/Development/Client/Client/bin/Debug/netcoreapp2.2/Client.deps.json
+/Users/abby.thompson/Development/Client/Client/bin/Debug/netcoreapp2.2/Client.runtimeconfig.json
+/Users/abby.thompson/Development/Client/Client/bin/Debug/netcoreapp2.2/Client.runtimeconfig.dev.json
+/Users/abby.thompson/Development/Client/Client/bin/Debug/netcoreapp2.2/Client.dll
+/Users/abby.thompson/Development/Client/Client/bin/Debug/netcoreapp2.2/Client.pdb
+/Users/abby.thompson/Development/Client/Client/obj/Debug/netcoreapp2.2/Client.csprojAssemblyReference.cache
+/Users/abby.thompson/Development/Client/Client/obj/Debug/netcoreapp2.2/Client.csproj.CoreCompileInputs.cache
+/Users/abby.thompson/Development/Client/Client/obj/Debug/netcoreapp2.2/Client.AssemblyInfoInputs.cache
+/Users/abby.thompson/Development/Client/Client/obj/Debug/netcoreapp2.2/Client.AssemblyInfo.cs
+/Users/abby.thompson/Development/Client/Client/obj/Debug/netcoreapp2.2/Client.dll
+/Users/abby.thompson/Development/Client/Client/obj/Debug/netcoreapp2.2/Client.pdb
